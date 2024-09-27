@@ -1,0 +1,17 @@
+Qual interruptor controla cada lâmpada:
+
+1. Na sala dos interruptores:
+ - Ligar o primeiro interruptor e aguardar um tempo para a lâmpada aquecer
+ - Depois, desligar o primeiro interruptor e ligar o segundo.
+
+2. Ir para a primeira sala das lâmpadas:
+ - Se a lâmpada estiver acesa, ela é controlada pelo segundo interruptor, o último que deixamos ligado aquecendo.
+ - Se a lâmpada estiver apagada e quente, ela é controlada pelo primeiro interruptor, porque deixamos ele ligado por um tempo.
+ - Se a lâmpada estiver apagada e fria, ela é controlada pelo terceiro interruptor, que não mexemos em nenhum momento.
+
+3. Ir para segunda sala das lâmpadas:
+ - Se a lâmpada estiver acesa, ela é controlada pelo segundo interruptor.
+ - Ligar o terceiro interruptor.
+ - A lâmpada que acender será controlada pelo terceiro interruptor.
+
+Com estas duas idas, nos teremos determinado qual interruptor controla cada lâmpada.
