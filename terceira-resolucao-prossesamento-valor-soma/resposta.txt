@@ -1,0 +1,3 @@
+A função calcularSoma calcula a soma dos números de 2 a 12. Ela inicializa INDICE como 12, SOMA como 0 e K como 1. Em um laço while, K é incrementado e seu valor é adicionado a SOMA enquanto for menor que INDICE. 
+
+Ao final do processamento, qual será o valor da variável SOMA? no nosso caso 77
